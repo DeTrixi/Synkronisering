@@ -1,0 +1,16 @@
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.exe
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.deps.json
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.runtimeconfig.json
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.runtimeconfig.dev.json
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.dll
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\ref\Opgave1.dll
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\bin\Debug\net5.0\Opgave1.pdb
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.csprojAssemblyReference.cache
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.AssemblyInfoInputs.cache
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.AssemblyInfo.cs
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.csproj.CoreCompileInputs.cache
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.dll
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\ref\Opgave1.dll
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.pdb
+C:\Users\flemm\RiderProjects\Synkronisering\Opgave1\obj\Debug\net5.0\Opgave1.genruntimeconfig.cache
